@@ -1,7 +1,7 @@
 
-// import { API_KEY } from './secxx.js';
+ import { API_KEY } from './secxx.js';
 
-const API_KEY = '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';
+
 
 const submitPrompt = document.getElementById('submitButton')
 const outPutElement = document.getElementById('output')
